@@ -1,6 +1,6 @@
 # Barcode-generate.
  
-<p> this is a generate of the barcode.</p>
+<p>This is a barcode generator app made with Node.js  and ejs file</p>
 
  ## Install to dependecies 
     npm i 
